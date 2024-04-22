@@ -1,0 +1,10 @@
+url for documentation: 
+https://threejs.org/docs/#manual/en/introduction/Installation
+
+
+method used was an npm install:
+npm install --save three
+
+
+build tool used was vite
+npm install --save-dev vite
